@@ -1,4 +1,4 @@
-# YATAS - Yet Another Tailwind Apline Starter
+# CFF - Yet Another Tailwind Apline Starter
 
 <a href="https://yatas.netlify.app/" target="_blank">
   <img alt="YATAS Logo" width="350" src="./src/img/logo.svg">
