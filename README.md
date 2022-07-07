@@ -2,7 +2,7 @@
 
 Minimal 11ty starter project that build css with tailwindcss cli and [esbuild](https://esbuild.github.io/) for javascript.
 
-## [Demo](https://yatas.netlify.app/)
+## [Demo](https://codedforfree.netlify.app/)
 
 ## Stack
 
